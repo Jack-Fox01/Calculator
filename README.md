@@ -3,37 +3,6 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Calculator README</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.5;
-    max-width: 700px;
-    margin: 2rem auto;
-    padding: 0 1rem;
-    background-color: #f9f9f9;
-    color: #222;
-  }
-  h1, h2 {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-  h1 {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-  }
-  h2 {
-    font-size: 1.8rem;
-    margin-top: 2rem;
-    margin-bottom: 0.75rem;
-    color: #444;
-  }
-  /* Optional: style emojis slightly bigger */
-  .emoji {
-    font-size: 1.5rem;
-  }
-</style>
 </head>
 <body>
 
