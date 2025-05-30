@@ -56,13 +56,17 @@
 
 <h1>Issues and Bug Fixes</h1>
 <img width="362" alt="Screenshot 2025-05-30 at 18 56 07" src="https://github.com/user-attachments/assets/be639f26-2bda-4389-95eb-037dd6eb13c2" />
-<p>I noticed that when I was running the programm that the buttons on the calculator would not go to thier custom color that I had set for them. The issue was becasue I did not have the buttons set up correctly. They didn't have button.setOpaque. </p>
 <img width="495" alt="Screenshot 2025-05-30 at 18 58 18" src="https://github.com/user-attachments/assets/89bc687e-46aa-41f9-b316-ab0ae3b7813d" />
+
+<p>I noticed that when I was running the programm that the buttons on the calculator would not go to thier custom color that I had set for them. The issue was becasue I did not have the buttons set up correctly. They didn't have button.setOpaque. </p>
+
 
 
 <p>This was an easy fix once spotted.</p>
 <img width="518" alt="Screenshot 2025-05-30 at 18 57 39" src="https://github.com/user-attachments/assets/c9b211b4-5e20-4a4a-a4dc-acaa94e59625" />
+
 <img width="445" alt="Screenshot 2025-05-30 at 18 59 54" src="https://github.com/user-attachments/assets/e72f4b07-6ede-45da-9543-4c5cf75a771e" />
+
 
 <h1>Here is the final product!</h1>
 https://github.com/user-attachments/assets/ffb5fe3b-4e0c-47ce-ad2a-b347ff750fb0
